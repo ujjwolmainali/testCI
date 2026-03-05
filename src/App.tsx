@@ -18,7 +18,7 @@ const App: React.FC = () => {
       {/* Navigation */}
       <nav className="max-w-5xl mx-auto px-6 py-8 flex justify-between items-center">
         <div className="text-xl font-bold tracking-tighter text-indigo-600">
-          UMainali<span className="text-slate-800">.</span>
+          UM<span className="text-slate-800">.</span>
         </div>
 
         <div className="flex gap-4">
@@ -46,7 +46,7 @@ const App: React.FC = () => {
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-slate-900">
             Hi, I'm{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-blue-500">
-              Ujjwol
+              Ujjwol Mainali
             </span>
           </h1>
 
