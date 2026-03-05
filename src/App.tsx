@@ -104,7 +104,7 @@ const App: React.FC = () => {
                 Bachelor of Information Technology (BIT)
               </h3>
               <h3 className="text-lg font-bold text-slate-900">
-                Bachelor of Information Technology (BIT) ths is test bit
+                Bachelor of Information Technology (BIT) ths is test bit ajhsdv
               </h3>
 
               <p className="text-slate-500 mt-2">
