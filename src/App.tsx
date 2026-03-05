@@ -16,7 +16,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-slate-50 text-slate-800 font-sans selection:bg-indigo-100 selection:text-indigo-900">
 
       {/* Navigation */}
-      <nav className="max-w-5xl mx-auto px-6 py-8 flex justify-between items-center">
+      <nav className="max-w-5xl mx-auto px-6 py-8 flex justify-between items-center bg-yellow-300 p-5">
         <div className="text-xl font-bold tracking-tighter text-indigo-600">
           UM<span className="text-slate-800">.</span>
         </div>
@@ -102,6 +102,9 @@ const App: React.FC = () => {
             <div className="p-6 rounded-2xl border border-slate-100 bg-slate-50/50 hover:bg-slate-50 transition-colors">
               <h3 className="text-lg font-bold text-slate-900">
                 Bachelor of Information Technology (BIT)
+              </h3>
+              <h3 className="text-lg font-bold text-slate-900">
+                Bachelor of Information Technology (BIT) ths is test bit
               </h3>
 
               <p className="text-slate-500 mt-2">
